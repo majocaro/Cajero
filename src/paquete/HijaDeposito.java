@@ -9,7 +9,7 @@ public class HijaDeposito extends ClasePadre {
             deposito();
             transacciones = getSaldo();
             setSaldo(transacciones+deposito);
-            System.out.println("El deposito ingresado = "+ deposito);
+            System.out.println("El deposito ingresado es= "+ deposito);
             System.out.println("Su saldo actual = "+ getSaldo());
         }
     }
