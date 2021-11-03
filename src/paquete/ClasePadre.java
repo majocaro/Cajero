@@ -22,7 +22,7 @@ public abstract class ClasePadre {
            System.out.println("1. Consulta de saldo");
            System.out.println("2. Retiro de efectivo");
            System.out.println("3. Deposito de efectivo");
-           System.out.println("4. Salir");
+           System.out.println("4. Salir, Que tenga un excelente dia" );
 
            seleccion = data.nextInt();
 
